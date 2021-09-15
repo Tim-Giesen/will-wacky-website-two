@@ -1,2 +1,4 @@
-# will-wacky-website-two
-Had er vorig jaar ook al een vandaar two
+# Will's Wacky website - static version
+## Personal website for fork testing
+
+Fork, download and destroy
